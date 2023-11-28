@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-# comentariu
+# spt demo api
 
 app = FastAPI()
 movies = [{"title":"Demo movie", "year":"2001"}]
